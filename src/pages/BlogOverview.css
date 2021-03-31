@@ -1,0 +1,26 @@
+.blog-overview {
+    margin: 50px;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.blog-overview ul{
+    text-align: center;
+    width: fit-content;
+}
+.blog-overview li {
+    border-radius: 5px;
+    padding: 5px;
+    margin-top: 10px;
+    margin-left: 100px;
+    margin-right: 100px;
+    border: 1px lightslategrey solid;
+}
+.blog-overview a:visited, a{
+    color: black;
+}
+
+
+
+
