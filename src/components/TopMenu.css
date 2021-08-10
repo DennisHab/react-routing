@@ -1,0 +1,31 @@
+.top-menu-list {
+    list-style: none;
+    display: flex;
+    justify-content: space-evenly;
+    flex-direction: row;
+}
+.top-menu-list li {
+    color: white;
+    font-weight: bold;
+    margin-left: 40px;
+}
+a,
+a:visited {
+    color: white;
+    text-decoration: none;
+}
+.underline {
+    border-bottom: solid 2px whitesmoke;
+ }
+.top-menu-list button {
+    width: 80px;
+    margin-left: 40px;
+}
+.nav-container {
+    margin-bottom: 50px;
+    display: flex;
+    justify-content: space-evenly;
+    background-color: lightslategrey;
+    height: 60px;
+}
+
